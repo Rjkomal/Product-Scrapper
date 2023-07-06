@@ -28,5 +28,10 @@ The Amazon Product Scraper scrapes product details from Amazon's website, includ
 
 - Modify the `base_url` variable in `part1.py` to specify the desired Amazon search URL.
 
+## Screenshots 
+
+![Screenshot (16)](https://github.com/Rjkomal/Product-Scrapper/assets/69381382/c4a611ce-103e-44bb-a1f9-7d41fa8b0560)
+
+![Uploading Screenshot (17).png…]()
 
 

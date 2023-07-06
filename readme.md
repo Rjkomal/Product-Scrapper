@@ -28,11 +28,5 @@ The Amazon Product Scraper scrapes product details from Amazon's website, includ
 
 - Modify the `base_url` variable in `part1.py` to specify the desired Amazon search URL.
 
-## Notes
 
-- The code provided is for educational purposes only. Use responsibly and ensure compliance with website scraping guidelines and legal requirements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 

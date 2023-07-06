@@ -30,8 +30,10 @@ The Amazon Product Scraper scrapes product details from Amazon's website, includ
 
 ## Screenshots 
 
-![Screenshot (16)](https://github.com/Rjkomal/Product-Scrapper/assets/69381382/c4a611ce-103e-44bb-a1f9-7d41fa8b0560)
+![Screenshot (17)](https://github.com/Rjkomal/Product-Scrapper/assets/69381382/335779c0-b0fc-489b-81ea-bc03c264b9d5)
 
-![Uploading Screenshot (17).png…]()
+![Screenshot (16)](https://github.com/Rjkomal/Product-Scrapper/assets/69381382/84ddc015-53f5-496d-bd6c-53a8cbef0c72)
+
+
 
 
